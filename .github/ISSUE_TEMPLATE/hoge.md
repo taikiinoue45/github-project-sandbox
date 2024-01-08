@@ -1,6 +1,6 @@
 ---
 name: hoge
-about: 'a'
+about: 'aaa'
 title: '[発注処理]: '
 labels: 'bug'
 ---
