@@ -1,10 +1,7 @@
 ---
-name: 発注処理
-about: ''
+name: hoge
 title: '[発注処理]: '
-labels: 'owner: tokuhara-j'
-assignees: ''
-
+labels: 'bug'
 ---
 
 - [ ] 納品書（BOX URL）
